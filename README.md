@@ -23,3 +23,7 @@ sudo zypper refresh
 sudo zypper install code
 From: https://code.visualstudio.com/docs/setup/linux
 
+### Docker
+
+zypper install docker docker-compose
+From: https://en.opensuse.org/SDB:Docker
